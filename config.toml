@@ -1,0 +1,18 @@
+baseurl = "https://solveforeggs.com/"
+languageCode = "en-us"
+title = "Solve for Eggs"
+theme = "hugrid"
+googleAnalytics = "UA-44924040-2"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    title = "Solve for Eggs"
+    subtitle = "The Moonshot Hatchery"
+    description = ""
+    bodybgcolor = "#f8f8f8"
+    buttontext = "EGGS"
+    footertext = ""
